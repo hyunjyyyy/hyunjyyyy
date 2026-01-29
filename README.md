@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hyunjyyy!
+## Hi there 👋 I'm Hyunjyyyy!
 
 | Category | Skills |
 | :--- | :--- |
