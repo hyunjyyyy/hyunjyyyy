@@ -24,7 +24,7 @@
 <br>
 
 ### 🧠 Dev Notes
-결과물 코드보다 그 코드를 짜게 된 **의사결정 과정(Decision Log)**을 중요하게 생각합니다.<br>
+결과물 코드보다 그 코드를 짜게 된 **의사결정 과정(Decision Log)** 을 중요하게 생각합니다.<br>
 프로젝트별 상세한 회고와 기술적 고민은 아래 저장소에서 확인하실 수 있습니다.
 
 [![Dev Notes](https://img.shields.io/badge/📂_Read_Dev_Notes-Click_Here!-3776AB?style=for-the-badge&logo=readme)](https://github.com/hyunjyyyy/dev-notes)
