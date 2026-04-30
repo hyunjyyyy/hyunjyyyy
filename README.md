@@ -6,7 +6,7 @@
     
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/aimjhnflkobjkaiahlaidmpailejaoki)
 
-[![Firefox Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://addons.mozilla.org/addon/cleanbook-출판사-필터/])
+[![Firefox Web Store](https://img.shields.io/badge/Firefox_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://addons.mozilla.org/addon/cleanbook-출판사-필터/])
 <!-- | **🤖 Mandro Controller** | **로봇 의수 제어 윈도우 애플리케이션**<br>CES 2026 시연용 / 5축·6축 통합 프로토콜 설계 | ![Private](https://img.shields.io/badge/Status-Private-red?style=flat-square) <br> *(Internship Project)* |
 | **📱 Mandro Controller - Android ** | **로봇 의수 제어 안드로이드 애플리케이션**<br> -- | ![Private](https://img.shields.io/badge/Status-Private-red?style=flat-square) <br> *(Internship Project)* |
 
