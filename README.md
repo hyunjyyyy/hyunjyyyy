@@ -1,12 +1,13 @@
 ## 🚀 Projects
 
-**📚 CleanBook** | 서점 검색 필터 확장 프로그램
+### 📚 CleanBook | 서점 검색 필터 확장 프로그램
   * DOM 구조 분석 및 실시간 차단 기능 구현
-  * [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/hyunjyyyy/cleanbook)
-    
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/aimjhnflkobjkaiahlaidmpailejaoki)
-
-[![Firefox Web Store](https://img.shields.io/badge/Firefox_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=firefox&logoColor=white)]([https://addons.mozilla.org/addon/cleanbook-출판사-필터/])
+  * [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/hyunjyyyy/cleanbook)  
+  * [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/aimjhnflkobjkaiahlaidmpailejaoki)
+  * [![Firefox Web Store](https://img.shields.io/badge/Firefox_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=firefox&logoColor=white)]([https://addons.mozilla.org/addon/cleanbook-출판사-필터/])
+### 💊 YakSok | AI 의약품 재고관리 시스템
+  * 해커톤 최우수상(2등) 수상작의 학술적 고도화(KOCON ICCC 2025 학술 논문 발표) 및 PM/백엔드 리딩
+  * [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/hyunjyyyy/yaksok)  
 <!-- | **🤖 Mandro Controller** | **로봇 의수 제어 윈도우 애플리케이션**<br>CES 2026 시연용 / 5축·6축 통합 프로토콜 설계 | ![Private](https://img.shields.io/badge/Status-Private-red?style=flat-square) <br> *(Internship Project)* |
 | **📱 Mandro Controller - Android ** | **로봇 의수 제어 안드로이드 애플리케이션**<br> -- | ![Private](https://img.shields.io/badge/Status-Private-red?style=flat-square) <br> *(Internship Project)* |
 
